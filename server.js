@@ -70,7 +70,7 @@ function connetti() {
 		});
 	});
 }
-connetti();
+//connetti();
 
 // server.use(
 // 	cors({
