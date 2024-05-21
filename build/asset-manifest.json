@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/static/css/main.8dc365d0.css",
+    "main.js": "/static/js/main.081641fc.js",
+    "static/js/453.419a5d54.chunk.js": "/static/js/453.419a5d54.chunk.js",
+    "static/media/loading.mov": "/static/media/loading.1b7f3e9fbb79018d3815.mov",
+    "static/media/sopra_benvenuto.png": "/static/media/sopra_benvenuto.d0fa8095733ebfe82d2d.png",
+    "static/media/sotto_login.png": "/static/media/sotto_login.91d36a46df6dc34b71f9.png",
+    "static/media/logoPiccolo.png": "/static/media/logoPiccolo.e2baa6f24538726b2159.png",
+    "static/media/arialRounded.TTF": "/static/media/arialRounded.78ccc3bbe2236b324bfb.TTF",
+    "static/media/topbarProfile.webp": "/static/media/topbarProfile.df808d7c1cb1480fc67b.webp",
+    "static/media/secondo.webp": "/static/media/secondo.a2952262fa701b3c11a3.webp",
+    "static/media/primo.webp": "/static/media/primo.d6bb297342a983ed22ae.webp",
+    "static/media/dolce.webp": "/static/media/dolce.0d4dc19220ab4bd8a575.webp",
+    "static/media/antipasto.webp": "/static/media/antipasto.edd44c471a2d4ccf22c9.webp",
+    "static/media/contorno.webp": "/static/media/contorno.fa0402cf4bfddee68c51.webp",
+    "static/media/deleteBlack.webp": "/static/media/deleteBlack.23c96a92c38ac4589b40.webp",
+    "static/media/delete.webp": "/static/media/delete.5c9af2ffe7e09f562fe0.webp",
+    "static/media/search.webp": "/static/media/search.e5369776ecf6827254a2.webp",
+    "static/media/bibita.webp": "/static/media/bibita.bae06255cdfc96d758c8.webp",
+    "static/media/goBack.webp": "/static/media/goBack.14c93cefe1176232fc38.webp",
+    "static/media/cronologia.webp": "/static/media/cronologia.b3659357478fdc2c85ab.webp",
+    "index.html": "/index.html",
+    "static/media/home.webp": "/static/media/home.b8f4f8e036ed45e28001.webp",
+    "static/media/disconnetti.webp": "/static/media/disconnetti.b5233d2afe951055c30a.webp",
+    "static/media/profile.webp": "/static/media/profile.5da90be1e717bceb1476.webp",
+    "static/media/cart.webp": "/static/media/cart.b1f34ba96cfddb7ba796.webp",
+    "main.8dc365d0.css.map": "/static/css/main.8dc365d0.css.map",
+    "main.081641fc.js.map": "/static/js/main.081641fc.js.map",
+    "453.419a5d54.chunk.js.map": "/static/js/453.419a5d54.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8dc365d0.css",
+    "static/js/main.081641fc.js"
+  ]
+}
