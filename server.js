@@ -24,7 +24,7 @@ const secretKey = "CaccaPoopShitMierda";
 
 const storage = multer.diskStorage({
 	destination: function (req, file, cb) {
-		cb(null, "../server/image/products");
+		cb(null, "./image/products");
 	},
 	filename: function (req, file, cb) {
 		const nome = req.body.nome;
@@ -36,7 +36,7 @@ const storage = multer.diskStorage({
 
 const storage2 = multer.diskStorage({
 	destination: function (req, file, cb) {
-		cb(null, "../server/image/products");
+		cb(null, "./image/products");
 	},
 	filename: function (req, file, cb) {
 		const id = req.body.id;
@@ -94,8 +94,8 @@ const reactRoutes = [
 ];
 
 server.use("/image", express.static("./image"));
-server.use(express.static("../cliente/build"));
-server.use(reactRoutes, express.static("../cliente/build"));
+server.use(express.static("./build"));
+server.use(reactRoutes, express.static("./build"));
 
 server.post("/request/products", (req, res) => {
 	let token = req.headers.authorization;
